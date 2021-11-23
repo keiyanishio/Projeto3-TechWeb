@@ -10,4 +10,10 @@ from itemadapter import ItemAdapter
 
 class GameReviewsPipeline:
     def process_item(self, item, spider):
+        item["titulo"] = item["titulo"].replace("\t", "")
+        item["titulo"] = item["titulo"].replace("\n", "")
+        item["titulo"] = item["titulo"].replace("\u2013", "-")
+        item["nota"] = item["nota"].replace("\t", "")
+        item["nota"] = item["nota"].replace("\n", "")
+
         return item
