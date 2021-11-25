@@ -12,9 +12,8 @@ class GameinformerSpider(scrapy.Spider):
             yield response.follow(link, callback= self.parse_game)
         next_page = response.css(".button::attr(href)").get()
         next_page = "http://gameinformer.com"+next_page
-        i = 0
-        if next_page and i < 10:
-            i += 1
+        
+        if next_page:
             yield scrapy.Request(url=next_page, callback=self.parse)
 
     def parse_game(self, response): 
