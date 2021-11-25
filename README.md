@@ -1,6 +1,7 @@
 # Projeto3-TechWeb
 ## Bruno Freitas do Nascimento Rodrigues
 ## Keiya Nishio
+## Análise dos dados:
 
 ### Sprint
 - [x] 18/11 Implementação do crawler
