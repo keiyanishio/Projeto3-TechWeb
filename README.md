@@ -5,5 +5,8 @@
 ### Sprint
 - [x] 18/11 Implementação do crawler
 - [x] 23/11 Impletação de uma spider 
-- [ ] 25/11 Análise de dados
-- [ ] 30/11 Jupyter com os gráficos analisados 
+- [x] 25/11 Análise de dados
+- [x] 30/11 Jupyter com os gráficos analisados 
+
+### Arquitetura
+![alt text](https://github.com/keiyanishio/Projeto3-TechWeb/blob/main/Arquitetura.png)
