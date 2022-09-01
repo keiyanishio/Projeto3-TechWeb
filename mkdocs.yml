@@ -1,0 +1,6 @@
+site_name: Documentação para o projeto Scrapy
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Dados: dados.md
+  - Scraper: scraper.md
