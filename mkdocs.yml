@@ -4,3 +4,7 @@ nav:
   - Home: index.md
   - Dados: dados.md
   - Scraper: scraper.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
