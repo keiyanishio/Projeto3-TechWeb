@@ -9,4 +9,4 @@
 - [x] 30/11 Jupyter com os gráficos analisados 
 
 ### Arquitetura
-![alt text](https://github.com/keiyanishio/Projeto3-TechWeb/blob/main/Arquitetura.png)
+![alt text](https://raw.githubusercontent.com/keiyanishio/Projeto3-TechWeb/main/imagens/Arquitetura.png)
