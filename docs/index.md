@@ -5,7 +5,7 @@ O projeto consiste em um WebScraper ,utilizando a biblioteca Scrapy, que coleta 
 assim com esse arquivo podemos fazer uma análise.<br>
 O site utilizado para os dados foi: http://gameinformer.com/reviews.
 
-![alt text](https://raw.githubusercontent.com/keiyanishio/Projeto3-TechWeb/main/Arquitetura.png)
+![alt text](https://raw.githubusercontent.com/keiyanishio/Projeto3-TechWeb/main/imagens/Arquitetura.png)
 
 
 * ## [Análise de Dados](dados.md)
